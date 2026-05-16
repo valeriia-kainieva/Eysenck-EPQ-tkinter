@@ -1,3 +1,3 @@
 # Eysenck Personality Questionnaire (EPQ)
 
-Python-based tool for assessing personality traits and temperament dimensions with graphical score visualization
+Python-based implementation of the Eysenck Personality Questionnaire (EPQ) with automated scoring, graphical interpretation, and temperament visualization using Tkinter.
